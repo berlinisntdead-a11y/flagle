@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "flagle",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["--yes", "http-server", "-p", "8642", "-c-1", "C:/Users/leele/Documents/vibecoding/flagle"],
+      "port": 8642
+    }
+  ]
+}

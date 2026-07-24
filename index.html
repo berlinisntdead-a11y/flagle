@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="color-scheme" content="light dark" />
+  <title>Flagle — daily capital game</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚩</text></svg>" />
+</head>
+<body>
+  <header>
+    <h1>Flagle</h1>
+    <div class="header-right">
+      <span id="streak-badge" title="Current streak">🔥<span id="streak-count">0</span></span>
+      <button id="settings-btn" aria-label="Settings">⚙</button>
+    </div>
+  </header>
+
+  <main>
+    <ol id="progress" aria-label="Round progress"></ol>
+
+    <figure id="flag-box">
+      <img id="flag" alt="Flag to identify" width="320" height="213" />
+      <div id="flag-missing" hidden aria-hidden="true">🏳️❓</div>
+    </figure>
+
+    <div id="reveal-panel" hidden>
+      <p id="reveal-text"></p>
+      <button id="next-btn">Next</button>
+    </div>
+
+    <div id="board" aria-label="Guesses"></div>
+
+    <ul id="hints" aria-live="polite" aria-label="Hints"></ul>
+
+    <div id="keyboard" aria-label="Keyboard"></div>
+  </main>
+
+  <div id="toast" role="status"></div>
+  <div id="live" class="visually-hidden" aria-live="polite"></div>
+
+  <dialog id="settings-dialog">
+    <h2>Settings</h2>
+    <fieldset>
+      <legend>Mode</legend>
+      <label><input type="radio" name="mode" value="easy" /> Easy — fuzzy spelling, 6 guesses, first letter free</label>
+      <label><input type="radio" name="mode" value="hard" /> Hard — exact spelling, real capitals only, 5 guesses</label>
+      <p class="hint-text">Switching mode restarts the current puzzle.</p>
+    </fieldset>
+    <label><input type="checkbox" id="opt-colourblind" /> Colourblind palette (blue / orange)</label>
+    <label><input type="checkbox" id="opt-reduced-motion" /> Reduce motion</label>
+    <button id="settings-close">Done</button>
+  </dialog>
+
+  <dialog id="results-dialog">
+    <div id="results-content"></div>
+  </dialog>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
