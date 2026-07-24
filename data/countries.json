@@ -1,0 +1,3912 @@
+[
+  {
+    "id": "af",
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "acceptedAnswers": [
+      "Kabul"
+    ],
+    "lat": 34.52,
+    "lng": 69.18,
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 43844000,
+    "tier": "medium",
+    "hints": [
+      "Located in Southern Asia",
+      "Landlocked, sharing a border with 6 countries",
+      "Home to about 44 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "al",
+    "name": "Albania",
+    "capital": "Tirana",
+    "acceptedAnswers": [
+      "Tirana"
+    ],
+    "lat": 41.32,
+    "lng": 19.82,
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "population": 2363314,
+    "tier": "medium",
+    "hints": [
+      "Located in Southeast Europe",
+      "Has a coastline and 4 land neighbours",
+      "Home to about 2.4 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "dz",
+    "name": "Algeria",
+    "capital": "Algiers",
+    "acceptedAnswers": [
+      "Algiers"
+    ],
+    "lat": 36.75,
+    "lng": 3.05,
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 47400000,
+    "tier": "medium",
+    "hints": [
+      "Located in Northern Africa",
+      "Has a coastline and 7 land neighbours",
+      "Home to about 47 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ad",
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "acceptedAnswers": [
+      "Andorra la Vella"
+    ],
+    "lat": 42.5,
+    "lng": 1.52,
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 88406,
+    "tier": "easy",
+    "hints": [
+      "Located in Southern Europe",
+      "Landlocked, sharing a border with 2 countries",
+      "Home to about 88,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ao",
+    "name": "Angola",
+    "capital": "Luanda",
+    "acceptedAnswers": [
+      "Luanda"
+    ],
+    "lat": -8.83,
+    "lng": 13.22,
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 36170961,
+    "tier": "medium",
+    "hints": [
+      "Located in Middle Africa",
+      "Has a coastline and 4 land neighbours",
+      "Home to about 36 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ag",
+    "name": "Antigua and Barbuda",
+    "capital": "Saint John's",
+    "acceptedAnswers": [
+      "Saint John's"
+    ],
+    "lat": 17.12,
+    "lng": -61.85,
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 103603,
+    "tier": "hard",
+    "hints": [
+      "Located in Caribbean",
+      "An island nation with no land borders",
+      "Home to about 104,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ar",
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "acceptedAnswers": [
+      "Buenos Aires"
+    ],
+    "lat": -34.58,
+    "lng": -58.67,
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 46735004,
+    "tier": "easy",
+    "hints": [
+      "Located in South America",
+      "Has a coastline and 5 land neighbours",
+      "Home to about 47 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "am",
+    "name": "Armenia",
+    "capital": "Yerevan",
+    "acceptedAnswers": [
+      "Yerevan"
+    ],
+    "lat": 40.17,
+    "lng": 44.5,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 3076200,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Asia",
+      "Landlocked, sharing a border with 4 countries",
+      "Home to about 3.1 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "au",
+    "name": "Australia",
+    "capital": "Canberra",
+    "acceptedAnswers": [
+      "Canberra"
+    ],
+    "lat": -35.27,
+    "lng": 149.13,
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 27536874,
+    "tier": "easy",
+    "hints": [
+      "Located in Australia and New Zealand",
+      "An island nation with no land borders",
+      "Home to about 28 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "at",
+    "name": "Austria",
+    "capital": "Vienna",
+    "acceptedAnswers": [
+      "Vienna"
+    ],
+    "lat": 48.2,
+    "lng": 16.37,
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "population": 9200931,
+    "tier": "easy",
+    "hints": [
+      "Located in Central Europe",
+      "Landlocked, sharing a border with 8 countries",
+      "Home to about 9.2 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "az",
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "acceptedAnswers": [
+      "Baku"
+    ],
+    "lat": 40.38,
+    "lng": 49.87,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 10241722,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Asia",
+      "Landlocked, sharing a border with 5 countries",
+      "Home to about 10 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "bs",
+    "name": "Bahamas",
+    "capital": "Nassau",
+    "acceptedAnswers": [
+      "Nassau"
+    ],
+    "lat": 25.08,
+    "lng": -77.35,
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 398165,
+    "tier": "medium",
+    "hints": [
+      "Located in Caribbean",
+      "An island nation with no land borders",
+      "Home to about 398,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "bh",
+    "name": "Bahrain",
+    "capital": "Manama",
+    "acceptedAnswers": [
+      "Manama"
+    ],
+    "lat": 26.23,
+    "lng": 50.57,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 1594654,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Asia",
+      "An island nation with no land borders",
+      "Home to about 1.6 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "bd",
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "acceptedAnswers": [
+      "Dhaka"
+    ],
+    "lat": 23.72,
+    "lng": 90.4,
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 169828911,
+    "tier": "medium",
+    "hints": [
+      "Located in Southern Asia",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 170 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "bb",
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "acceptedAnswers": [
+      "Bridgetown"
+    ],
+    "lat": 13.1,
+    "lng": -59.62,
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 267800,
+    "tier": "medium",
+    "hints": [
+      "Located in Caribbean",
+      "An island nation with no land borders",
+      "Home to about 268,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "by",
+    "name": "Belarus",
+    "capital": "Minsk",
+    "acceptedAnswers": [
+      "Minsk"
+    ],
+    "lat": 53.9,
+    "lng": 27.57,
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 9109280,
+    "tier": "medium",
+    "hints": [
+      "Located in Eastern Europe",
+      "Landlocked, sharing a border with 5 countries",
+      "Home to about 9.1 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "be",
+    "name": "Belgium",
+    "capital": "Brussels",
+    "acceptedAnswers": [
+      "Brussels"
+    ],
+    "lat": 50.83,
+    "lng": 4.33,
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 11825551,
+    "tier": "easy",
+    "hints": [
+      "Located in Western Europe",
+      "Has a coastline and 4 land neighbours",
+      "Home to about 12 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "bz",
+    "name": "Belize",
+    "capital": "Belmopan",
+    "acceptedAnswers": [
+      "Belmopan"
+    ],
+    "lat": 17.25,
+    "lng": -88.77,
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 417634,
+    "tier": "hard",
+    "hints": [
+      "Located in Central America",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 418,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "bj",
+    "name": "Benin",
+    "capital": "Porto-Novo",
+    "acceptedAnswers": [
+      "Porto-Novo",
+      "Cotonou"
+    ],
+    "lat": 6.48,
+    "lng": 2.62,
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 13224860,
+    "tier": "hard",
+    "hints": [
+      "Located in Western Africa",
+      "Has a coastline and 4 land neighbours",
+      "Home to about 13 million people"
+    ],
+    "note": "Porto-Novo is the official capital; Cotonou is the seat of government."
+  },
+  {
+    "id": "bt",
+    "name": "Bhutan",
+    "capital": "Thimphu",
+    "acceptedAnswers": [
+      "Thimphu"
+    ],
+    "lat": 27.47,
+    "lng": 89.63,
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 784043,
+    "tier": "hard",
+    "hints": [
+      "Located in Southern Asia",
+      "Landlocked, sharing a border with 2 countries",
+      "Home to about 784,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "bo",
+    "name": "Bolivia",
+    "capital": "Sucre",
+    "acceptedAnswers": [
+      "Sucre",
+      "La Paz"
+    ],
+    "lat": -19.02,
+    "lng": -65.26,
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 11365333,
+    "tier": "medium",
+    "hints": [
+      "Located in South America",
+      "Landlocked, sharing a border with 5 countries",
+      "Home to about 11 million people"
+    ],
+    "note": "Sucre is the constitutional capital; La Paz is the seat of government."
+  },
+  {
+    "id": "ba",
+    "name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "acceptedAnswers": [
+      "Sarajevo"
+    ],
+    "lat": 43.87,
+    "lng": 18.42,
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "population": 3422000,
+    "tier": "medium",
+    "hints": [
+      "Located in Southeast Europe",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 3.4 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "bw",
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "acceptedAnswers": [
+      "Gaborone"
+    ],
+    "lat": -24.63,
+    "lng": 25.9,
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 2359609,
+    "tier": "medium",
+    "hints": [
+      "Located in Southern Africa",
+      "Landlocked, sharing a border with 4 countries",
+      "Home to about 2.4 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "br",
+    "name": "Brazil",
+    "capital": "Brasília",
+    "acceptedAnswers": [
+      "Brasília"
+    ],
+    "lat": -15.79,
+    "lng": -47.88,
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 213421037,
+    "tier": "easy",
+    "hints": [
+      "Located in South America",
+      "Has a coastline and 10 land neighbours",
+      "Home to about 213 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "bn",
+    "name": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "acceptedAnswers": [
+      "Bandar Seri Begawan"
+    ],
+    "lat": 4.88,
+    "lng": 114.93,
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 455500,
+    "tier": "hard",
+    "hints": [
+      "Located in South-Eastern Asia",
+      "Has a coastline and 1 land neighbour",
+      "Home to about 456,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "bg",
+    "name": "Bulgaria",
+    "capital": "Sofia",
+    "acceptedAnswers": [
+      "Sofia"
+    ],
+    "lat": 42.68,
+    "lng": 23.32,
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "population": 6437360,
+    "tier": "medium",
+    "hints": [
+      "Located in Southeast Europe",
+      "Has a coastline and 5 land neighbours",
+      "Home to about 6.4 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "bf",
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "acceptedAnswers": [
+      "Ouagadougou"
+    ],
+    "lat": 12.37,
+    "lng": -1.52,
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 24070553,
+    "tier": "hard",
+    "hints": [
+      "Located in Western Africa",
+      "Landlocked, sharing a border with 6 countries",
+      "Home to about 24 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "bi",
+    "name": "Burundi",
+    "capital": "Gitega",
+    "acceptedAnswers": [
+      "Gitega"
+    ],
+    "lat": -3.43,
+    "lng": 29.93,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 12332788,
+    "tier": "hard",
+    "hints": [
+      "Located in Eastern Africa",
+      "Landlocked, sharing a border with 3 countries",
+      "Home to about 12 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "kh",
+    "name": "Cambodia",
+    "capital": "Phnom Penh",
+    "acceptedAnswers": [
+      "Phnom Penh"
+    ],
+    "lat": 11.55,
+    "lng": 104.92,
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 17577760,
+    "tier": "medium",
+    "hints": [
+      "Located in South-Eastern Asia",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 18 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "cm",
+    "name": "Cameroon",
+    "capital": "Yaoundé",
+    "acceptedAnswers": [
+      "Yaoundé"
+    ],
+    "lat": 3.85,
+    "lng": 11.5,
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 29442327,
+    "tier": "medium",
+    "hints": [
+      "Located in Middle Africa",
+      "Has a coastline and 6 land neighbours",
+      "Home to about 29 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ca",
+    "name": "Canada",
+    "capital": "Ottawa",
+    "acceptedAnswers": [
+      "Ottawa"
+    ],
+    "lat": 45.42,
+    "lng": -75.7,
+    "region": "Americas",
+    "subregion": "North America",
+    "population": 41651653,
+    "tier": "easy",
+    "hints": [
+      "Located in North America",
+      "Has a coastline and 1 land neighbour",
+      "Home to about 42 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "cv",
+    "name": "Cape Verde",
+    "capital": "Praia",
+    "acceptedAnswers": [
+      "Praia"
+    ],
+    "lat": 14.92,
+    "lng": -23.52,
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 491233,
+    "tier": "hard",
+    "hints": [
+      "Located in Western Africa",
+      "An island nation with no land borders",
+      "Home to about 491,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "cf",
+    "name": "Central African Republic",
+    "capital": "Bangui",
+    "acceptedAnswers": [
+      "Bangui"
+    ],
+    "lat": 4.37,
+    "lng": 18.58,
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 6470307,
+    "tier": "hard",
+    "hints": [
+      "Located in Middle Africa",
+      "Landlocked, sharing a border with 6 countries",
+      "Home to about 6.5 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "td",
+    "name": "Chad",
+    "capital": "N'Djamena",
+    "acceptedAnswers": [
+      "N'Djamena"
+    ],
+    "lat": 12.1,
+    "lng": 15.03,
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 19340757,
+    "tier": "hard",
+    "hints": [
+      "Located in Middle Africa",
+      "Landlocked, sharing a border with 6 countries",
+      "Home to about 19 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "cl",
+    "name": "Chile",
+    "capital": "Santiago",
+    "acceptedAnswers": [
+      "Santiago",
+      "Valparaíso",
+      "Valparaiso"
+    ],
+    "lat": -33.45,
+    "lng": -70.67,
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 20206953,
+    "tier": "medium",
+    "hints": [
+      "Located in South America",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 20 million people"
+    ],
+    "note": "Santiago is the capital; the National Congress sits in Valparaíso."
+  },
+  {
+    "id": "cn",
+    "name": "China",
+    "capital": "Beijing",
+    "acceptedAnswers": [
+      "Beijing",
+      "Peking"
+    ],
+    "lat": 39.92,
+    "lng": 116.38,
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 1408280000,
+    "tier": "easy",
+    "hints": [
+      "Located in Eastern Asia",
+      "Has a coastline and 16 land neighbours",
+      "Home to about 1.4 billion people"
+    ],
+    "note": null
+  },
+  {
+    "id": "co",
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "acceptedAnswers": [
+      "Bogotá"
+    ],
+    "lat": 4.71,
+    "lng": -74.07,
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 53057212,
+    "tier": "medium",
+    "hints": [
+      "Located in South America",
+      "Has a coastline and 5 land neighbours",
+      "Home to about 53 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "km",
+    "name": "Comoros",
+    "capital": "Moroni",
+    "acceptedAnswers": [
+      "Moroni"
+    ],
+    "lat": -11.7,
+    "lng": 43.23,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 919901,
+    "tier": "hard",
+    "hints": [
+      "Located in Eastern Africa",
+      "An island nation with no land borders",
+      "Home to about 920,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "cr",
+    "name": "Costa Rica",
+    "capital": "San José",
+    "acceptedAnswers": [
+      "San José"
+    ],
+    "lat": 9.93,
+    "lng": -84.09,
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 5309625,
+    "tier": "medium",
+    "hints": [
+      "Located in Central America",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 5.3 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "hr",
+    "name": "Croatia",
+    "capital": "Zagreb",
+    "acceptedAnswers": [
+      "Zagreb"
+    ],
+    "lat": 45.8,
+    "lng": 16,
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "population": 3866233,
+    "tier": "medium",
+    "hints": [
+      "Located in Southeast Europe",
+      "Has a coastline and 5 land neighbours",
+      "Home to about 3.9 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "cu",
+    "name": "Cuba",
+    "capital": "Havana",
+    "acceptedAnswers": [
+      "Havana"
+    ],
+    "lat": 23.12,
+    "lng": -82.35,
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 9748007,
+    "tier": "easy",
+    "hints": [
+      "Located in Caribbean",
+      "An island nation with no land borders",
+      "Home to about 9.7 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "cy",
+    "name": "Cyprus",
+    "capital": "Nicosia",
+    "acceptedAnswers": [
+      "Nicosia"
+    ],
+    "lat": 35.17,
+    "lng": 33.37,
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 1442614,
+    "tier": "medium",
+    "hints": [
+      "Located in Southern Europe",
+      "An island nation with no land borders",
+      "Home to about 1.4 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "cz",
+    "name": "Czechia",
+    "capital": "Prague",
+    "acceptedAnswers": [
+      "Prague"
+    ],
+    "lat": 50.08,
+    "lng": 14.47,
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "population": 10882341,
+    "tier": "easy",
+    "hints": [
+      "Located in Central Europe",
+      "Landlocked, sharing a border with 4 countries",
+      "Home to about 11 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "dk",
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "acceptedAnswers": [
+      "Copenhagen"
+    ],
+    "lat": 55.67,
+    "lng": 12.58,
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 6011488,
+    "tier": "easy",
+    "hints": [
+      "Located in Northern Europe",
+      "Has a coastline and 1 land neighbour",
+      "Home to about 6.0 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "dj",
+    "name": "Djibouti",
+    "capital": "Djibouti",
+    "acceptedAnswers": [
+      "Djibouti"
+    ],
+    "lat": 11.58,
+    "lng": 43.15,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 1066809,
+    "tier": "easy",
+    "hints": [
+      "Located in Eastern Africa",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 1.1 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "dm",
+    "name": "Dominica",
+    "capital": "Roseau",
+    "acceptedAnswers": [
+      "Roseau"
+    ],
+    "lat": 15.3,
+    "lng": -61.4,
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 67408,
+    "tier": "hard",
+    "hints": [
+      "Located in Caribbean",
+      "An island nation with no land borders",
+      "Home to about 67,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "do",
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "acceptedAnswers": [
+      "Santo Domingo"
+    ],
+    "lat": 18.47,
+    "lng": -69.9,
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 10771504,
+    "tier": "medium",
+    "hints": [
+      "Located in Caribbean",
+      "Has a coastline and 1 land neighbour",
+      "Home to about 11 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "cd",
+    "name": "DR Congo",
+    "capital": "Kinshasa",
+    "acceptedAnswers": [
+      "Kinshasa"
+    ],
+    "lat": -4.32,
+    "lng": 15.3,
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 112832000,
+    "tier": "medium",
+    "hints": [
+      "Located in Middle Africa",
+      "Has a coastline and 9 land neighbours",
+      "Home to about 113 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ec",
+    "name": "Ecuador",
+    "capital": "Quito",
+    "acceptedAnswers": [
+      "Quito"
+    ],
+    "lat": -0.22,
+    "lng": -78.5,
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 18103660,
+    "tier": "medium",
+    "hints": [
+      "Located in South America",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 18 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "eg",
+    "name": "Egypt",
+    "capital": "Cairo",
+    "acceptedAnswers": [
+      "Cairo"
+    ],
+    "lat": 30.05,
+    "lng": 31.25,
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 107271260,
+    "tier": "easy",
+    "hints": [
+      "Located in Northern Africa",
+      "Has a coastline and 4 land neighbours",
+      "Home to about 107 million people"
+    ],
+    "note": "Government functions are moving to a purpose-built New Capital east of Cairo."
+  },
+  {
+    "id": "sv",
+    "name": "El Salvador",
+    "capital": "San Salvador",
+    "acceptedAnswers": [
+      "San Salvador"
+    ],
+    "lat": 13.7,
+    "lng": -89.2,
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 6029976,
+    "tier": "medium",
+    "hints": [
+      "Located in Central America",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 6.0 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "gq",
+    "name": "Equatorial Guinea",
+    "capital": "Malabo",
+    "acceptedAnswers": [
+      "Malabo",
+      "Ciudad de la Paz"
+    ],
+    "lat": 1.35,
+    "lng": 10.49,
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 1668768,
+    "tier": "hard",
+    "hints": [
+      "Located in Middle Africa",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 1.7 million people"
+    ],
+    "note": "A January 2026 decree designates Ciudad de la Paz as the new capital; the move from Malabo is under way."
+  },
+  {
+    "id": "er",
+    "name": "Eritrea",
+    "capital": "Asmara",
+    "acceptedAnswers": [
+      "Asmara"
+    ],
+    "lat": 15.33,
+    "lng": 38.93,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 3607000,
+    "tier": "hard",
+    "hints": [
+      "Located in Eastern Africa",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 3.6 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ee",
+    "name": "Estonia",
+    "capital": "Tallinn",
+    "acceptedAnswers": [
+      "Tallinn"
+    ],
+    "lat": 59.43,
+    "lng": 24.72,
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 1369995,
+    "tier": "medium",
+    "hints": [
+      "Located in Northern Europe",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 1.4 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "sz",
+    "name": "Eswatini",
+    "capital": "Mbabane",
+    "acceptedAnswers": [
+      "Mbabane",
+      "Lobamba"
+    ],
+    "lat": -26.32,
+    "lng": 31.13,
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 1235549,
+    "tier": "hard",
+    "hints": [
+      "Located in Southern Africa",
+      "Landlocked, sharing a border with 2 countries",
+      "Home to about 1.2 million people"
+    ],
+    "note": "Mbabane is the administrative capital; Lobamba is the royal and legislative capital."
+  },
+  {
+    "id": "et",
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "acceptedAnswers": [
+      "Addis Ababa"
+    ],
+    "lat": 9.03,
+    "lng": 38.7,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 111652998,
+    "tier": "medium",
+    "hints": [
+      "Located in Eastern Africa",
+      "Landlocked, sharing a border with 6 countries",
+      "Home to about 112 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "fj",
+    "name": "Fiji",
+    "capital": "Suva",
+    "acceptedAnswers": [
+      "Suva"
+    ],
+    "lat": -18.13,
+    "lng": 178.42,
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "population": 900869,
+    "tier": "medium",
+    "hints": [
+      "Located in Melanesia",
+      "An island nation with no land borders",
+      "Home to about 901,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "fi",
+    "name": "Finland",
+    "capital": "Helsinki",
+    "acceptedAnswers": [
+      "Helsinki"
+    ],
+    "lat": 60.17,
+    "lng": 24.93,
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 5650325,
+    "tier": "easy",
+    "hints": [
+      "Located in Northern Europe",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 5.7 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "fr",
+    "name": "France",
+    "capital": "Paris",
+    "acceptedAnswers": [
+      "Paris"
+    ],
+    "lat": 48.87,
+    "lng": 2.33,
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 66351959,
+    "tier": "easy",
+    "hints": [
+      "Located in Western Europe",
+      "Has a coastline and 8 land neighbours",
+      "Home to about 66 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ga",
+    "name": "Gabon",
+    "capital": "Libreville",
+    "acceptedAnswers": [
+      "Libreville"
+    ],
+    "lat": 0.38,
+    "lng": 9.45,
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 2469296,
+    "tier": "hard",
+    "hints": [
+      "Located in Middle Africa",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 2.5 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "gm",
+    "name": "Gambia",
+    "capital": "Banjul",
+    "acceptedAnswers": [
+      "Banjul"
+    ],
+    "lat": 13.45,
+    "lng": -16.57,
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 2422712,
+    "tier": "hard",
+    "hints": [
+      "Located in Western Africa",
+      "Has a coastline and 1 land neighbour",
+      "Home to about 2.4 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ge",
+    "name": "Georgia",
+    "capital": "Tbilisi",
+    "acceptedAnswers": [
+      "Tbilisi"
+    ],
+    "lat": 41.68,
+    "lng": 44.83,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 4000921,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Asia",
+      "Has a coastline and 4 land neighbours",
+      "Home to about 4.0 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "de",
+    "name": "Germany",
+    "capital": "Berlin",
+    "acceptedAnswers": [
+      "Berlin"
+    ],
+    "lat": 52.52,
+    "lng": 13.4,
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 83491249,
+    "tier": "easy",
+    "hints": [
+      "Located in Western Europe",
+      "Has a coastline and 9 land neighbours",
+      "Home to about 83 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "gh",
+    "name": "Ghana",
+    "capital": "Accra",
+    "acceptedAnswers": [
+      "Accra"
+    ],
+    "lat": 5.55,
+    "lng": -0.22,
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 33742380,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Africa",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 34 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "gr",
+    "name": "Greece",
+    "capital": "Athens",
+    "acceptedAnswers": [
+      "Athens"
+    ],
+    "lat": 37.98,
+    "lng": 23.73,
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 10400720,
+    "tier": "easy",
+    "hints": [
+      "Located in Southern Europe",
+      "Has a coastline and 4 land neighbours",
+      "Home to about 10 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "gd",
+    "name": "Grenada",
+    "capital": "St. George's",
+    "acceptedAnswers": [
+      "St. George's"
+    ],
+    "lat": 32.38,
+    "lng": -64.68,
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 109021,
+    "tier": "hard",
+    "hints": [
+      "Located in Caribbean",
+      "An island nation with no land borders",
+      "Home to about 109,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "gt",
+    "name": "Guatemala",
+    "capital": "Guatemala City",
+    "acceptedAnswers": [
+      "Guatemala City"
+    ],
+    "lat": 14.62,
+    "lng": -90.52,
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 18079810,
+    "tier": "easy",
+    "hints": [
+      "Located in Central America",
+      "Has a coastline and 4 land neighbours",
+      "Home to about 18 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "gn",
+    "name": "Guinea",
+    "capital": "Conakry",
+    "acceptedAnswers": [
+      "Conakry"
+    ],
+    "lat": 9.5,
+    "lng": -13.7,
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 14363931,
+    "tier": "hard",
+    "hints": [
+      "Located in Western Africa",
+      "Has a coastline and 6 land neighbours",
+      "Home to about 14 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "gw",
+    "name": "Guinea-Bissau",
+    "capital": "Bissau",
+    "acceptedAnswers": [
+      "Bissau"
+    ],
+    "lat": 11.85,
+    "lng": -15.58,
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 1781308,
+    "tier": "hard",
+    "hints": [
+      "Located in Western Africa",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 1.8 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "gy",
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "acceptedAnswers": [
+      "Georgetown"
+    ],
+    "lat": 6.8,
+    "lng": -58.15,
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 772975,
+    "tier": "hard",
+    "hints": [
+      "Located in South America",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 773,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ht",
+    "name": "Haiti",
+    "capital": "Port-au-Prince",
+    "acceptedAnswers": [
+      "Port-au-Prince"
+    ],
+    "lat": 18.53,
+    "lng": -72.33,
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 11867032,
+    "tier": "medium",
+    "hints": [
+      "Located in Caribbean",
+      "Has a coastline and 1 land neighbour",
+      "Home to about 12 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "hn",
+    "name": "Honduras",
+    "capital": "Tegucigalpa",
+    "acceptedAnswers": [
+      "Tegucigalpa"
+    ],
+    "lat": 14.1,
+    "lng": -87.22,
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 9892632,
+    "tier": "medium",
+    "hints": [
+      "Located in Central America",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 9.9 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "hu",
+    "name": "Hungary",
+    "capital": "Budapest",
+    "acceptedAnswers": [
+      "Budapest"
+    ],
+    "lat": 47.5,
+    "lng": 19.08,
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "population": 9539502,
+    "tier": "easy",
+    "hints": [
+      "Located in Central Europe",
+      "Landlocked, sharing a border with 7 countries",
+      "Home to about 9.5 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "is",
+    "name": "Iceland",
+    "capital": "Reykjavik",
+    "acceptedAnswers": [
+      "Reykjavik"
+    ],
+    "lat": 64.15,
+    "lng": -21.95,
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 391810,
+    "tier": "easy",
+    "hints": [
+      "Located in Northern Europe",
+      "An island nation with no land borders",
+      "Home to about 392,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "in",
+    "name": "India",
+    "capital": "New Delhi",
+    "acceptedAnswers": [
+      "New Delhi",
+      "Delhi"
+    ],
+    "lat": 28.6,
+    "lng": 77.2,
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 1417492000,
+    "tier": "easy",
+    "hints": [
+      "Located in Southern Asia",
+      "Has a coastline and 6 land neighbours",
+      "Home to about 1.4 billion people"
+    ],
+    "note": null
+  },
+  {
+    "id": "id",
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "acceptedAnswers": [
+      "Jakarta",
+      "Nusantara"
+    ],
+    "lat": -6.17,
+    "lng": 106.82,
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 284438782,
+    "tier": "medium",
+    "hints": [
+      "Located in South-Eastern Asia",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 284 million people"
+    ],
+    "note": "Jakarta remains the capital; a phased move to Nusantara is planned around 2028."
+  },
+  {
+    "id": "ir",
+    "name": "Iran",
+    "capital": "Tehran",
+    "acceptedAnswers": [
+      "Tehran"
+    ],
+    "lat": 35.7,
+    "lng": 51.42,
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 85961000,
+    "tier": "medium",
+    "hints": [
+      "Located in Southern Asia",
+      "Has a coastline and 7 land neighbours",
+      "Home to about 86 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "iq",
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "acceptedAnswers": [
+      "Baghdad"
+    ],
+    "lat": 33.33,
+    "lng": 44.4,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 46118793,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Asia",
+      "Has a coastline and 6 land neighbours",
+      "Home to about 46 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ie",
+    "name": "Ireland",
+    "capital": "Dublin",
+    "acceptedAnswers": [
+      "Dublin"
+    ],
+    "lat": 53.32,
+    "lng": -6.23,
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 5458600,
+    "tier": "easy",
+    "hints": [
+      "Located in Northern Europe",
+      "Has a coastline and 1 land neighbour",
+      "Home to about 5.5 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "it",
+    "name": "Italy",
+    "capital": "Rome",
+    "acceptedAnswers": [
+      "Rome"
+    ],
+    "lat": 41.9,
+    "lng": 12.48,
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 58927633,
+    "tier": "easy",
+    "hints": [
+      "Located in Southern Europe",
+      "Has a coastline and 6 land neighbours",
+      "Home to about 59 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ci",
+    "name": "Ivory Coast",
+    "capital": "Yamoussoukro",
+    "acceptedAnswers": [
+      "Yamoussoukro",
+      "Abidjan"
+    ],
+    "lat": 6.82,
+    "lng": -5.27,
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 31719275,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Africa",
+      "Has a coastline and 5 land neighbours",
+      "Home to about 32 million people"
+    ],
+    "note": "Yamoussoukro is the official capital; Abidjan is the de facto seat of government."
+  },
+  {
+    "id": "jm",
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "acceptedAnswers": [
+      "Kingston"
+    ],
+    "lat": 17.99702,
+    "lng": -76.79358,
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 2825544,
+    "tier": "medium",
+    "hints": [
+      "Located in Caribbean",
+      "An island nation with no land borders",
+      "Home to about 2.8 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "jp",
+    "name": "Japan",
+    "capital": "Tokyo",
+    "acceptedAnswers": [
+      "Tokyo"
+    ],
+    "lat": 35.68,
+    "lng": 139.75,
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 123210000,
+    "tier": "easy",
+    "hints": [
+      "Located in Eastern Asia",
+      "An island nation with no land borders",
+      "Home to about 123 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "jo",
+    "name": "Jordan",
+    "capital": "Amman",
+    "acceptedAnswers": [
+      "Amman"
+    ],
+    "lat": 31.95,
+    "lng": 35.93,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 11734000,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Asia",
+      "Has a coastline and 5 land neighbours",
+      "Home to about 12 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "kz",
+    "name": "Kazakhstan",
+    "capital": "Astana",
+    "acceptedAnswers": [
+      "Astana",
+      "Nur-Sultan"
+    ],
+    "lat": 51.16,
+    "lng": 71.45,
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "population": 20426568,
+    "tier": "medium",
+    "hints": [
+      "Located in Central Asia",
+      "Landlocked, sharing a border with 5 countries",
+      "Home to about 20 million people"
+    ],
+    "note": "Called Nur-Sultan from 2019 to 2022, then renamed back to Astana."
+  },
+  {
+    "id": "ke",
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "acceptedAnswers": [
+      "Nairobi"
+    ],
+    "lat": -1.28,
+    "lng": 36.82,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 53330978,
+    "tier": "medium",
+    "hints": [
+      "Located in Eastern Africa",
+      "Has a coastline and 5 land neighbours",
+      "Home to about 53 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ki",
+    "name": "Kiribati",
+    "capital": "South Tarawa",
+    "acceptedAnswers": [
+      "South Tarawa"
+    ],
+    "lat": 1.33,
+    "lng": 172.98,
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 120740,
+    "tier": "hard",
+    "hints": [
+      "Located in Micronesia",
+      "An island nation with no land borders",
+      "Home to about 121,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "kw",
+    "name": "Kuwait",
+    "capital": "Kuwait City",
+    "acceptedAnswers": [
+      "Kuwait City"
+    ],
+    "lat": 29.37,
+    "lng": 47.97,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 4881254,
+    "tier": "easy",
+    "hints": [
+      "Located in Western Asia",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 4.9 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "kg",
+    "name": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "acceptedAnswers": [
+      "Bishkek"
+    ],
+    "lat": 42.87,
+    "lng": 74.6,
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "population": 7281800,
+    "tier": "hard",
+    "hints": [
+      "Located in Central Asia",
+      "Landlocked, sharing a border with 4 countries",
+      "Home to about 7.3 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "la",
+    "name": "Laos",
+    "capital": "Vientiane",
+    "acceptedAnswers": [
+      "Vientiane"
+    ],
+    "lat": 17.97,
+    "lng": 102.6,
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 7647000,
+    "tier": "medium",
+    "hints": [
+      "Located in South-Eastern Asia",
+      "Landlocked, sharing a border with 5 countries",
+      "Home to about 7.6 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "lv",
+    "name": "Latvia",
+    "capital": "Riga",
+    "acceptedAnswers": [
+      "Riga"
+    ],
+    "lat": 56.95,
+    "lng": 24.1,
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 1829000,
+    "tier": "medium",
+    "hints": [
+      "Located in Northern Europe",
+      "Has a coastline and 4 land neighbours",
+      "Home to about 1.8 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "lb",
+    "name": "Lebanon",
+    "capital": "Beirut",
+    "acceptedAnswers": [
+      "Beirut"
+    ],
+    "lat": 33.87,
+    "lng": 35.5,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 5490000,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Asia",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 5.5 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ls",
+    "name": "Lesotho",
+    "capital": "Maseru",
+    "acceptedAnswers": [
+      "Maseru"
+    ],
+    "lat": -29.32,
+    "lng": 27.48,
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 2116427,
+    "tier": "hard",
+    "hints": [
+      "Located in Southern Africa",
+      "Landlocked, sharing a border with 1 country",
+      "Home to about 2.1 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "lr",
+    "name": "Liberia",
+    "capital": "Monrovia",
+    "acceptedAnswers": [
+      "Monrovia"
+    ],
+    "lat": 6.3,
+    "lng": -10.8,
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 5248621,
+    "tier": "hard",
+    "hints": [
+      "Located in Western Africa",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 5.2 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ly",
+    "name": "Libya",
+    "capital": "Tripoli",
+    "acceptedAnswers": [
+      "Tripoli"
+    ],
+    "lat": 32.88,
+    "lng": 13.17,
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 7459000,
+    "tier": "medium",
+    "hints": [
+      "Located in Northern Africa",
+      "Has a coastline and 6 land neighbours",
+      "Home to about 7.5 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "li",
+    "name": "Liechtenstein",
+    "capital": "Vaduz",
+    "acceptedAnswers": [
+      "Vaduz"
+    ],
+    "lat": 47.13,
+    "lng": 9.52,
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 40900,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Europe",
+      "Landlocked, sharing a border with 2 countries",
+      "Home to about 41,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "lt",
+    "name": "Lithuania",
+    "capital": "Vilnius",
+    "acceptedAnswers": [
+      "Vilnius"
+    ],
+    "lat": 54.68,
+    "lng": 25.32,
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 2894886,
+    "tier": "medium",
+    "hints": [
+      "Located in Northern Europe",
+      "Has a coastline and 4 land neighbours",
+      "Home to about 2.9 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "lu",
+    "name": "Luxembourg",
+    "capital": "Luxembourg",
+    "acceptedAnswers": [
+      "Luxembourg"
+    ],
+    "lat": 49.6,
+    "lng": 6.12,
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 681973,
+    "tier": "easy",
+    "hints": [
+      "Located in Western Europe",
+      "Landlocked, sharing a border with 3 countries",
+      "Home to about 682,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "mg",
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "acceptedAnswers": [
+      "Antananarivo"
+    ],
+    "lat": -18.92,
+    "lng": 47.52,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 31727042,
+    "tier": "medium",
+    "hints": [
+      "Located in Eastern Africa",
+      "An island nation with no land borders",
+      "Home to about 32 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "mw",
+    "name": "Malawi",
+    "capital": "Lilongwe",
+    "acceptedAnswers": [
+      "Lilongwe"
+    ],
+    "lat": -13.97,
+    "lng": 33.78,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 20734262,
+    "tier": "hard",
+    "hints": [
+      "Located in Eastern Africa",
+      "Landlocked, sharing a border with 3 countries",
+      "Home to about 21 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "my",
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "acceptedAnswers": [
+      "Kuala Lumpur",
+      "Putrajaya"
+    ],
+    "lat": 3.17,
+    "lng": 101.7,
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 34231700,
+    "tier": "medium",
+    "hints": [
+      "Located in South-Eastern Asia",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 34 million people"
+    ],
+    "note": "Kuala Lumpur is the capital; Putrajaya is the federal administrative centre."
+  },
+  {
+    "id": "mv",
+    "name": "Maldives",
+    "capital": "Malé",
+    "acceptedAnswers": [
+      "Malé"
+    ],
+    "lat": 4.17,
+    "lng": 73.51,
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 515132,
+    "tier": "hard",
+    "hints": [
+      "Located in Southern Asia",
+      "An island nation with no land borders",
+      "Home to about 515,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ml",
+    "name": "Mali",
+    "capital": "Bamako",
+    "acceptedAnswers": [
+      "Bamako"
+    ],
+    "lat": 12.65,
+    "lng": -8,
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 22395489,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Africa",
+      "Landlocked, sharing a border with 7 countries",
+      "Home to about 22 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "mt",
+    "name": "Malta",
+    "capital": "Valletta",
+    "acceptedAnswers": [
+      "Valletta"
+    ],
+    "lat": 35.88,
+    "lng": 14.5,
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 574250,
+    "tier": "medium",
+    "hints": [
+      "Located in Southern Europe",
+      "An island nation with no land borders",
+      "Home to about 574,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "mh",
+    "name": "Marshall Islands",
+    "capital": "Majuro",
+    "acceptedAnswers": [
+      "Majuro"
+    ],
+    "lat": 7.1,
+    "lng": 171.38,
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 42418,
+    "tier": "hard",
+    "hints": [
+      "Located in Micronesia",
+      "An island nation with no land borders",
+      "Home to about 42,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "mr",
+    "name": "Mauritania",
+    "capital": "Nouakchott",
+    "acceptedAnswers": [
+      "Nouakchott"
+    ],
+    "lat": 18.07,
+    "lng": -15.97,
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 4927532,
+    "tier": "hard",
+    "hints": [
+      "Located in Western Africa",
+      "Has a coastline and 4 land neighbours",
+      "Home to about 4.9 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "mu",
+    "name": "Mauritius",
+    "capital": "Port Louis",
+    "acceptedAnswers": [
+      "Port Louis"
+    ],
+    "lat": -20.15,
+    "lng": 57.48,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 1243741,
+    "tier": "medium",
+    "hints": [
+      "Located in Eastern Africa",
+      "An island nation with no land borders",
+      "Home to about 1.2 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "mx",
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "acceptedAnswers": [
+      "Mexico City"
+    ],
+    "lat": 19.43,
+    "lng": -99.13,
+    "region": "Americas",
+    "subregion": "North America",
+    "population": 130575786,
+    "tier": "easy",
+    "hints": [
+      "Located in North America",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 131 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "fm",
+    "name": "Micronesia",
+    "capital": "Palikir",
+    "acceptedAnswers": [
+      "Palikir",
+      "Kolonia"
+    ],
+    "lat": 6.92,
+    "lng": 158.15,
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 105564,
+    "tier": "hard",
+    "hints": [
+      "Located in Micronesia",
+      "An island nation with no land borders",
+      "Home to about 106,000 people"
+    ],
+    "note": "Palikir replaced nearby Kolonia as capital in 1989."
+  },
+  {
+    "id": "md",
+    "name": "Moldova",
+    "capital": "Chișinău",
+    "acceptedAnswers": [
+      "Chișinău"
+    ],
+    "lat": 47.01,
+    "lng": 28.9,
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 2749076,
+    "tier": "medium",
+    "hints": [
+      "Located in Eastern Europe",
+      "Landlocked, sharing a border with 2 countries",
+      "Home to about 2.7 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "mc",
+    "name": "Monaco",
+    "capital": "Monaco",
+    "acceptedAnswers": [
+      "Monaco"
+    ],
+    "lat": 43.73,
+    "lng": 7.42,
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 38423,
+    "tier": "easy",
+    "hints": [
+      "Located in Western Europe",
+      "Has a coastline and 1 land neighbour",
+      "Home to about 38,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "mn",
+    "name": "Mongolia",
+    "capital": "Ulan Bator",
+    "acceptedAnswers": [
+      "Ulan Bator"
+    ],
+    "lat": 47.92,
+    "lng": 106.91,
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 3544835,
+    "tier": "medium",
+    "hints": [
+      "Located in Eastern Asia",
+      "Landlocked, sharing a border with 2 countries",
+      "Home to about 3.5 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "me",
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "acceptedAnswers": [
+      "Podgorica"
+    ],
+    "lat": 42.43,
+    "lng": 19.27,
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "population": 623327,
+    "tier": "medium",
+    "hints": [
+      "Located in Southeast Europe",
+      "Has a coastline and 5 land neighbours",
+      "Home to about 623,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ma",
+    "name": "Morocco",
+    "capital": "Rabat",
+    "acceptedAnswers": [
+      "Rabat"
+    ],
+    "lat": 34.02,
+    "lng": -6.82,
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 36828330,
+    "tier": "medium",
+    "hints": [
+      "Located in Northern Africa",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 37 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "mz",
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "acceptedAnswers": [
+      "Maputo"
+    ],
+    "lat": -25.95,
+    "lng": 32.58,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 34090466,
+    "tier": "medium",
+    "hints": [
+      "Located in Eastern Africa",
+      "Has a coastline and 6 land neighbours",
+      "Home to about 34 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "mm",
+    "name": "Myanmar",
+    "capital": "Naypyidaw",
+    "acceptedAnswers": [
+      "Naypyidaw",
+      "Nay Pyi Taw",
+      "Naypyitaw"
+    ],
+    "lat": 19.76,
+    "lng": 96.07,
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 51316756,
+    "tier": "hard",
+    "hints": [
+      "Located in South-Eastern Asia",
+      "Has a coastline and 5 land neighbours",
+      "Home to about 51 million people"
+    ],
+    "note": "Naypyidaw replaced Yangon as capital in 2006."
+  },
+  {
+    "id": "na",
+    "name": "Namibia",
+    "capital": "Windhoek",
+    "acceptedAnswers": [
+      "Windhoek"
+    ],
+    "lat": -22.57,
+    "lng": 17.08,
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 3022401,
+    "tier": "medium",
+    "hints": [
+      "Located in Southern Africa",
+      "Has a coastline and 4 land neighbours",
+      "Home to about 3.0 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "nr",
+    "name": "Nauru",
+    "capital": "Yaren",
+    "acceptedAnswers": [
+      "Yaren"
+    ],
+    "lat": -0.55,
+    "lng": 166.92,
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 11680,
+    "tier": "hard",
+    "hints": [
+      "Located in Micronesia",
+      "An island nation with no land borders",
+      "Home to about 12,000 people"
+    ],
+    "note": "Nauru has no official capital; Yaren is the de facto seat of government."
+  },
+  {
+    "id": "np",
+    "name": "Nepal",
+    "capital": "Kathmandu",
+    "acceptedAnswers": [
+      "Kathmandu"
+    ],
+    "lat": 27.72,
+    "lng": 85.32,
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 29911840,
+    "tier": "medium",
+    "hints": [
+      "Located in Southern Asia",
+      "Landlocked, sharing a border with 2 countries",
+      "Home to about 30 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "nl",
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "acceptedAnswers": [
+      "Amsterdam",
+      "The Hague",
+      "Den Haag"
+    ],
+    "lat": 52.35,
+    "lng": 4.92,
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 18100436,
+    "tier": "easy",
+    "hints": [
+      "Located in Western Europe",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 18 million people"
+    ],
+    "note": "Amsterdam is the constitutional capital; The Hague is the seat of government."
+  },
+  {
+    "id": "nz",
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "acceptedAnswers": [
+      "Wellington"
+    ],
+    "lat": -41.3,
+    "lng": 174.78,
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 5324700,
+    "tier": "easy",
+    "hints": [
+      "Located in Australia and New Zealand",
+      "An island nation with no land borders",
+      "Home to about 5.3 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ni",
+    "name": "Nicaragua",
+    "capital": "Managua",
+    "acceptedAnswers": [
+      "Managua"
+    ],
+    "lat": 12.13,
+    "lng": -86.25,
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 6803886,
+    "tier": "medium",
+    "hints": [
+      "Located in Central America",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 6.8 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ne",
+    "name": "Niger",
+    "capital": "Niamey",
+    "acceptedAnswers": [
+      "Niamey"
+    ],
+    "lat": 13.52,
+    "lng": 2.12,
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 26312034,
+    "tier": "hard",
+    "hints": [
+      "Located in Western Africa",
+      "Landlocked, sharing a border with 7 countries",
+      "Home to about 26 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ng",
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "acceptedAnswers": [
+      "Abuja"
+    ],
+    "lat": 9.08,
+    "lng": 7.53,
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 223800000,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Africa",
+      "Has a coastline and 4 land neighbours",
+      "Home to about 224 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "kp",
+    "name": "North Korea",
+    "capital": "Pyongyang",
+    "acceptedAnswers": [
+      "Pyongyang"
+    ],
+    "lat": 39.02,
+    "lng": 125.75,
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 25950000,
+    "tier": "medium",
+    "hints": [
+      "Located in Eastern Asia",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 26 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "mk",
+    "name": "North Macedonia",
+    "capital": "Skopje",
+    "acceptedAnswers": [
+      "Skopje"
+    ],
+    "lat": 42,
+    "lng": 21.43,
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "population": 1822612,
+    "tier": "medium",
+    "hints": [
+      "Located in Southeast Europe",
+      "Landlocked, sharing a border with 5 countries",
+      "Home to about 1.8 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "no",
+    "name": "Norway",
+    "capital": "Oslo",
+    "acceptedAnswers": [
+      "Oslo"
+    ],
+    "lat": 59.92,
+    "lng": 10.75,
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 5606944,
+    "tier": "easy",
+    "hints": [
+      "Located in Northern Europe",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 5.6 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "om",
+    "name": "Oman",
+    "capital": "Muscat",
+    "acceptedAnswers": [
+      "Muscat"
+    ],
+    "lat": 23.62,
+    "lng": 58.58,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 5343630,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Asia",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 5.3 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "pk",
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "acceptedAnswers": [
+      "Islamabad"
+    ],
+    "lat": 33.68,
+    "lng": 73.05,
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 241499431,
+    "tier": "medium",
+    "hints": [
+      "Located in Southern Asia",
+      "Has a coastline and 4 land neighbours",
+      "Home to about 241 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "pw",
+    "name": "Palau",
+    "capital": "Ngerulmud",
+    "acceptedAnswers": [
+      "Ngerulmud",
+      "Melekeok"
+    ],
+    "lat": 7.5,
+    "lng": 134.62,
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "population": 16733,
+    "tier": "hard",
+    "hints": [
+      "Located in Micronesia",
+      "An island nation with no land borders",
+      "Home to about 17,000 people"
+    ],
+    "note": "Ngerulmud, in Melekeok state, replaced Koror as capital in 2006."
+  },
+  {
+    "id": "ps",
+    "name": "Palestine",
+    "capital": "Jerusalem",
+    "acceptedAnswers": [
+      "Jerusalem",
+      "East Jerusalem",
+      "Ramallah"
+    ],
+    "lat": 31.78,
+    "lng": 35.22,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 5483450,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Asia",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 5.5 million people"
+    ],
+    "note": "Palestine claims Jerusalem as its capital; Ramallah is the administrative centre."
+  },
+  {
+    "id": "pa",
+    "name": "Panama",
+    "capital": "Panama City",
+    "acceptedAnswers": [
+      "Panama City"
+    ],
+    "lat": 8.97,
+    "lng": -79.53,
+    "region": "Americas",
+    "subregion": "Central America",
+    "population": 4064780,
+    "tier": "easy",
+    "hints": [
+      "Located in Central America",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 4.1 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "pg",
+    "name": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "acceptedAnswers": [
+      "Port Moresby"
+    ],
+    "lat": -9.45,
+    "lng": 147.18,
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "population": 11781559,
+    "tier": "medium",
+    "hints": [
+      "Located in Melanesia",
+      "Has a coastline and 1 land neighbour",
+      "Home to about 12 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "py",
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "acceptedAnswers": [
+      "Asunción"
+    ],
+    "lat": -25.28,
+    "lng": -57.57,
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 6109644,
+    "tier": "medium",
+    "hints": [
+      "Located in South America",
+      "Landlocked, sharing a border with 3 countries",
+      "Home to about 6.1 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "pe",
+    "name": "Peru",
+    "capital": "Lima",
+    "acceptedAnswers": [
+      "Lima"
+    ],
+    "lat": -12.05,
+    "lng": -77.05,
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 34350244,
+    "tier": "medium",
+    "hints": [
+      "Located in South America",
+      "Has a coastline and 5 land neighbours",
+      "Home to about 34 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ph",
+    "name": "Philippines",
+    "capital": "Manila",
+    "acceptedAnswers": [
+      "Manila"
+    ],
+    "lat": 14.6,
+    "lng": 120.97,
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 114123600,
+    "tier": "medium",
+    "hints": [
+      "Located in South-Eastern Asia",
+      "An island nation with no land borders",
+      "Home to about 114 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "pl",
+    "name": "Poland",
+    "capital": "Warsaw",
+    "acceptedAnswers": [
+      "Warsaw"
+    ],
+    "lat": 52.25,
+    "lng": 21,
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "population": 37392000,
+    "tier": "easy",
+    "hints": [
+      "Located in Central Europe",
+      "Has a coastline and 7 land neighbours",
+      "Home to about 37 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "pt",
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "acceptedAnswers": [
+      "Lisbon"
+    ],
+    "lat": 38.72,
+    "lng": -9.13,
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 10749635,
+    "tier": "easy",
+    "hints": [
+      "Located in Southern Europe",
+      "Has a coastline and 1 land neighbour",
+      "Home to about 11 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "qa",
+    "name": "Qatar",
+    "capital": "Doha",
+    "acceptedAnswers": [
+      "Doha"
+    ],
+    "lat": 25.28,
+    "lng": 51.53,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 3173024,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Asia",
+      "Has a coastline and 1 land neighbour",
+      "Home to about 3.2 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "cg",
+    "name": "Republic of the Congo",
+    "capital": "Brazzaville",
+    "acceptedAnswers": [
+      "Brazzaville"
+    ],
+    "lat": -4.25,
+    "lng": 15.28,
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 6142180,
+    "tier": "hard",
+    "hints": [
+      "Located in Middle Africa",
+      "Has a coastline and 5 land neighbours",
+      "Home to about 6.1 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ro",
+    "name": "Romania",
+    "capital": "Bucharest",
+    "acceptedAnswers": [
+      "Bucharest"
+    ],
+    "lat": 44.43,
+    "lng": 26.1,
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "population": 19036031,
+    "tier": "medium",
+    "hints": [
+      "Located in Southeast Europe",
+      "Has a coastline and 5 land neighbours",
+      "Home to about 19 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ru",
+    "name": "Russia",
+    "capital": "Moscow",
+    "acceptedAnswers": [
+      "Moscow"
+    ],
+    "lat": 55.75,
+    "lng": 37.6,
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 146028325,
+    "tier": "easy",
+    "hints": [
+      "Located in Eastern Europe",
+      "Has a coastline and 14 land neighbours",
+      "Home to about 146 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "rw",
+    "name": "Rwanda",
+    "capital": "Kigali",
+    "acceptedAnswers": [
+      "Kigali"
+    ],
+    "lat": -1.95,
+    "lng": 30.05,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 14104969,
+    "tier": "medium",
+    "hints": [
+      "Located in Eastern Africa",
+      "Landlocked, sharing a border with 4 countries",
+      "Home to about 14 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "kn",
+    "name": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "acceptedAnswers": [
+      "Basseterre"
+    ],
+    "lat": 17.3,
+    "lng": -62.72,
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 51320,
+    "tier": "hard",
+    "hints": [
+      "Located in Caribbean",
+      "An island nation with no land borders",
+      "Home to about 51,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "lc",
+    "name": "Saint Lucia",
+    "capital": "Castries",
+    "acceptedAnswers": [
+      "Castries"
+    ],
+    "lat": 14,
+    "lng": -61,
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 184100,
+    "tier": "hard",
+    "hints": [
+      "Located in Caribbean",
+      "An island nation with no land borders",
+      "Home to about 184,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "vc",
+    "name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "acceptedAnswers": [
+      "Kingstown"
+    ],
+    "lat": 13.13,
+    "lng": -61.22,
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 110872,
+    "tier": "hard",
+    "hints": [
+      "Located in Caribbean",
+      "An island nation with no land borders",
+      "Home to about 111,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ws",
+    "name": "Samoa",
+    "capital": "Apia",
+    "acceptedAnswers": [
+      "Apia"
+    ],
+    "lat": -13.82,
+    "lng": -171.77,
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 205557,
+    "tier": "hard",
+    "hints": [
+      "Located in Polynesia",
+      "An island nation with no land borders",
+      "Home to about 206,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "sm",
+    "name": "San Marino",
+    "capital": "San Marino",
+    "acceptedAnswers": [
+      "San Marino",
+      "City of San Marino"
+    ],
+    "lat": 43.94,
+    "lng": 12.45,
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 34132,
+    "tier": "easy",
+    "hints": [
+      "Located in Southern Europe",
+      "Landlocked, sharing a border with 1 country",
+      "Home to about 34,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "st",
+    "name": "São Tomé and Príncipe",
+    "capital": "São Tomé",
+    "acceptedAnswers": [
+      "São Tomé"
+    ],
+    "lat": 0.34,
+    "lng": 6.73,
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 209607,
+    "tier": "hard",
+    "hints": [
+      "Located in Middle Africa",
+      "An island nation with no land borders",
+      "Home to about 210,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "sa",
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "acceptedAnswers": [
+      "Riyadh"
+    ],
+    "lat": 24.65,
+    "lng": 46.7,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 35300280,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Asia",
+      "Has a coastline and 7 land neighbours",
+      "Home to about 35 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "sn",
+    "name": "Senegal",
+    "capital": "Dakar",
+    "acceptedAnswers": [
+      "Dakar"
+    ],
+    "lat": 14.73,
+    "lng": -17.63,
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 18593258,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Africa",
+      "Has a coastline and 5 land neighbours",
+      "Home to about 19 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "rs",
+    "name": "Serbia",
+    "capital": "Belgrade",
+    "acceptedAnswers": [
+      "Belgrade"
+    ],
+    "lat": 44.83,
+    "lng": 20.5,
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "population": 6567783,
+    "tier": "medium",
+    "hints": [
+      "Located in Southeast Europe",
+      "Landlocked, sharing a border with 8 countries",
+      "Home to about 6.6 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "sc",
+    "name": "Seychelles",
+    "capital": "Victoria",
+    "acceptedAnswers": [
+      "Victoria"
+    ],
+    "lat": -4.62,
+    "lng": 55.45,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 122729,
+    "tier": "medium",
+    "hints": [
+      "Located in Eastern Africa",
+      "An island nation with no land borders",
+      "Home to about 123,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "sl",
+    "name": "Sierra Leone",
+    "capital": "Freetown",
+    "acceptedAnswers": [
+      "Freetown"
+    ],
+    "lat": 8.48,
+    "lng": -13.23,
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 9077691,
+    "tier": "hard",
+    "hints": [
+      "Located in Western Africa",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 9.1 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "sg",
+    "name": "Singapore",
+    "capital": "Singapore",
+    "acceptedAnswers": [
+      "Singapore"
+    ],
+    "lat": 1.28,
+    "lng": 103.85,
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 6110200,
+    "tier": "easy",
+    "hints": [
+      "Located in South-Eastern Asia",
+      "An island nation with no land borders",
+      "Home to about 6.1 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "sk",
+    "name": "Slovakia",
+    "capital": "Bratislava",
+    "acceptedAnswers": [
+      "Bratislava"
+    ],
+    "lat": 48.15,
+    "lng": 17.12,
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "population": 5413813,
+    "tier": "medium",
+    "hints": [
+      "Located in Central Europe",
+      "Landlocked, sharing a border with 5 countries",
+      "Home to about 5.4 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "si",
+    "name": "Slovenia",
+    "capital": "Ljubljana",
+    "acceptedAnswers": [
+      "Ljubljana"
+    ],
+    "lat": 46.05,
+    "lng": 14.52,
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "population": 2130638,
+    "tier": "medium",
+    "hints": [
+      "Located in Central Europe",
+      "Has a coastline and 4 land neighbours",
+      "Home to about 2.1 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "sb",
+    "name": "Solomon Islands",
+    "capital": "Honiara",
+    "acceptedAnswers": [
+      "Honiara"
+    ],
+    "lat": -9.43,
+    "lng": 159.95,
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "population": 750325,
+    "tier": "hard",
+    "hints": [
+      "Located in Melanesia",
+      "An island nation with no land borders",
+      "Home to about 750,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "so",
+    "name": "Somalia",
+    "capital": "Mogadishu",
+    "acceptedAnswers": [
+      "Mogadishu"
+    ],
+    "lat": 2.07,
+    "lng": 45.33,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 19655000,
+    "tier": "medium",
+    "hints": [
+      "Located in Eastern Africa",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 20 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "za",
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "acceptedAnswers": [
+      "Pretoria",
+      "Cape Town",
+      "Bloemfontein"
+    ],
+    "lat": -25.7,
+    "lng": 28.22,
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 63100945,
+    "tier": "medium",
+    "hints": [
+      "Located in Southern Africa",
+      "Has a coastline and 6 land neighbours",
+      "Home to about 63 million people"
+    ],
+    "note": "South Africa has three capitals: Pretoria (executive), Cape Town (legislative) and Bloemfontein (judicial)."
+  },
+  {
+    "id": "kr",
+    "name": "South Korea",
+    "capital": "Seoul",
+    "acceptedAnswers": [
+      "Seoul"
+    ],
+    "lat": 37.55,
+    "lng": 126.98,
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 51159889,
+    "tier": "easy",
+    "hints": [
+      "Located in Eastern Asia",
+      "Has a coastline and 1 land neighbour",
+      "Home to about 51 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ss",
+    "name": "South Sudan",
+    "capital": "Juba",
+    "acceptedAnswers": [
+      "Juba"
+    ],
+    "lat": 4.85,
+    "lng": 31.62,
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "population": 15786898,
+    "tier": "hard",
+    "hints": [
+      "Located in Middle Africa",
+      "Landlocked, sharing a border with 6 countries",
+      "Home to about 16 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "es",
+    "name": "Spain",
+    "capital": "Madrid",
+    "acceptedAnswers": [
+      "Madrid"
+    ],
+    "lat": 40.4,
+    "lng": -3.68,
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 49315949,
+    "tier": "easy",
+    "hints": [
+      "Located in Southern Europe",
+      "Has a coastline and 5 land neighbours",
+      "Home to about 49 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "lk",
+    "name": "Sri Lanka",
+    "capital": "Sri Jayawardenepura Kotte",
+    "acceptedAnswers": [
+      "Sri Jayawardenepura Kotte",
+      "Kotte",
+      "Colombo"
+    ],
+    "lat": 6.89,
+    "lng": 79.9,
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 21763170,
+    "tier": "medium",
+    "hints": [
+      "Located in Southern Asia",
+      "An island nation with no land borders",
+      "Home to about 22 million people"
+    ],
+    "note": "Sri Jayawardenepura Kotte is the legislative capital; Colombo is the executive and commercial centre."
+  },
+  {
+    "id": "sd",
+    "name": "Sudan",
+    "capital": "Khartoum",
+    "acceptedAnswers": [
+      "Khartoum"
+    ],
+    "lat": 15.6,
+    "lng": 32.53,
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 51662000,
+    "tier": "medium",
+    "hints": [
+      "Located in Northern Africa",
+      "Has a coastline and 7 land neighbours",
+      "Home to about 52 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "sr",
+    "name": "Suriname",
+    "capital": "Paramaribo",
+    "acceptedAnswers": [
+      "Paramaribo"
+    ],
+    "lat": 5.83,
+    "lng": -55.17,
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 616500,
+    "tier": "hard",
+    "hints": [
+      "Located in South America",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 617,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "se",
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "acceptedAnswers": [
+      "Stockholm"
+    ],
+    "lat": 59.33,
+    "lng": 18.05,
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 10605098,
+    "tier": "easy",
+    "hints": [
+      "Located in Northern Europe",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 11 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ch",
+    "name": "Switzerland",
+    "capital": "Bern",
+    "acceptedAnswers": [
+      "Bern",
+      "Berne"
+    ],
+    "lat": 46.92,
+    "lng": 7.47,
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 9082848,
+    "tier": "easy",
+    "hints": [
+      "Located in Western Europe",
+      "Landlocked, sharing a border with 5 countries",
+      "Home to about 9.1 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "sy",
+    "name": "Syria",
+    "capital": "Damascus",
+    "acceptedAnswers": [
+      "Damascus"
+    ],
+    "lat": 33.5,
+    "lng": 36.3,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 25620000,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Asia",
+      "Has a coastline and 5 land neighbours",
+      "Home to about 26 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "tj",
+    "name": "Tajikistan",
+    "capital": "Dushanbe",
+    "acceptedAnswers": [
+      "Dushanbe"
+    ],
+    "lat": 38.55,
+    "lng": 68.77,
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "population": 10499000,
+    "tier": "hard",
+    "hints": [
+      "Located in Central Asia",
+      "Landlocked, sharing a border with 4 countries",
+      "Home to about 10 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "tz",
+    "name": "Tanzania",
+    "capital": "Dodoma",
+    "acceptedAnswers": [
+      "Dodoma",
+      "Dar es Salaam"
+    ],
+    "lat": -6.16,
+    "lng": 35.75,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 68153004,
+    "tier": "medium",
+    "hints": [
+      "Located in Eastern Africa",
+      "Has a coastline and 8 land neighbours",
+      "Home to about 68 million people"
+    ],
+    "note": "Dodoma is the official capital since the government completed its move from Dar es Salaam."
+  },
+  {
+    "id": "th",
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "acceptedAnswers": [
+      "Bangkok"
+    ],
+    "lat": 13.75,
+    "lng": 100.52,
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 65859640,
+    "tier": "easy",
+    "hints": [
+      "Located in South-Eastern Asia",
+      "Has a coastline and 4 land neighbours",
+      "Home to about 66 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "tl",
+    "name": "Timor-Leste",
+    "capital": "Dili",
+    "acceptedAnswers": [
+      "Dili"
+    ],
+    "lat": -8.58,
+    "lng": 125.6,
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 1391221,
+    "tier": "hard",
+    "hints": [
+      "Located in South-Eastern Asia",
+      "Has a coastline and 1 land neighbour",
+      "Home to about 1.4 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "tg",
+    "name": "Togo",
+    "capital": "Lomé",
+    "acceptedAnswers": [
+      "Lomé"
+    ],
+    "lat": 6.14,
+    "lng": 1.21,
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 8095498,
+    "tier": "hard",
+    "hints": [
+      "Located in Western Africa",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 8.1 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "to",
+    "name": "Tonga",
+    "capital": "Nuku'alofa",
+    "acceptedAnswers": [
+      "Nuku'alofa"
+    ],
+    "lat": -21.13,
+    "lng": -175.2,
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 100179,
+    "tier": "hard",
+    "hints": [
+      "Located in Polynesia",
+      "An island nation with no land borders",
+      "Home to about 100,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "tt",
+    "name": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "acceptedAnswers": [
+      "Port of Spain"
+    ],
+    "lat": 10.65,
+    "lng": -61.52,
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 1367764,
+    "tier": "medium",
+    "hints": [
+      "Located in Caribbean",
+      "An island nation with no land borders",
+      "Home to about 1.4 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "tn",
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "acceptedAnswers": [
+      "Tunis"
+    ],
+    "lat": 36.8,
+    "lng": 10.18,
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 11972169,
+    "tier": "medium",
+    "hints": [
+      "Located in Northern Africa",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 12 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "tr",
+    "name": "Turkey",
+    "capital": "Ankara",
+    "acceptedAnswers": [
+      "Ankara"
+    ],
+    "lat": 39.93,
+    "lng": 32.87,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 85664944,
+    "tier": "easy",
+    "hints": [
+      "Located in Western Asia",
+      "Has a coastline and 8 land neighbours",
+      "Home to about 86 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "tm",
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "acceptedAnswers": [
+      "Ashgabat"
+    ],
+    "lat": 37.95,
+    "lng": 58.38,
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "population": 7057841,
+    "tier": "hard",
+    "hints": [
+      "Located in Central Asia",
+      "Landlocked, sharing a border with 4 countries",
+      "Home to about 7.1 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "tv",
+    "name": "Tuvalu",
+    "capital": "Funafuti",
+    "acceptedAnswers": [
+      "Funafuti"
+    ],
+    "lat": -8.52,
+    "lng": 179.22,
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "population": 10643,
+    "tier": "hard",
+    "hints": [
+      "Located in Polynesia",
+      "An island nation with no land borders",
+      "Home to about 11,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ug",
+    "name": "Uganda",
+    "capital": "Kampala",
+    "acceptedAnswers": [
+      "Kampala"
+    ],
+    "lat": 0.32,
+    "lng": 32.55,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 45905417,
+    "tier": "medium",
+    "hints": [
+      "Located in Eastern Africa",
+      "Landlocked, sharing a border with 5 countries",
+      "Home to about 46 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ua",
+    "name": "Ukraine",
+    "capital": "Kyiv",
+    "acceptedAnswers": [
+      "Kyiv",
+      "Kiev"
+    ],
+    "lat": 50.43,
+    "lng": 30.52,
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 32862000,
+    "tier": "medium",
+    "hints": [
+      "Located in Eastern Europe",
+      "Has a coastline and 7 land neighbours",
+      "Home to about 33 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ae",
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "acceptedAnswers": [
+      "Abu Dhabi"
+    ],
+    "lat": 24.47,
+    "lng": 54.37,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 11294243,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Asia",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 11 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "gb",
+    "name": "United Kingdom",
+    "capital": "London",
+    "acceptedAnswers": [
+      "London"
+    ],
+    "lat": 51.5,
+    "lng": -0.08,
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 69281437,
+    "tier": "easy",
+    "hints": [
+      "Located in Northern Europe",
+      "Has a coastline and 1 land neighbour",
+      "Home to about 69 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "us",
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "acceptedAnswers": [
+      "Washington, D.C.",
+      "Washington DC",
+      "Washington"
+    ],
+    "lat": 38.89,
+    "lng": -77.05,
+    "region": "Americas",
+    "subregion": "North America",
+    "population": 340110988,
+    "tier": "easy",
+    "hints": [
+      "Located in North America",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 340 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "uy",
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "acceptedAnswers": [
+      "Montevideo"
+    ],
+    "lat": -34.85,
+    "lng": -56.17,
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 3499451,
+    "tier": "medium",
+    "hints": [
+      "Located in South America",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 3.5 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "uz",
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "acceptedAnswers": [
+      "Tashkent"
+    ],
+    "lat": 41.32,
+    "lng": 69.25,
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "population": 37859698,
+    "tier": "medium",
+    "hints": [
+      "Located in Central Asia",
+      "Landlocked, sharing a border with 5 countries",
+      "Home to about 38 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "vu",
+    "name": "Vanuatu",
+    "capital": "Port Vila",
+    "acceptedAnswers": [
+      "Port Vila"
+    ],
+    "lat": -17.73,
+    "lng": 168.32,
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "population": 321409,
+    "tier": "hard",
+    "hints": [
+      "Located in Melanesia",
+      "An island nation with no land borders",
+      "Home to about 321,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "va",
+    "name": "Vatican City",
+    "capital": "Vatican City",
+    "acceptedAnswers": [
+      "Vatican City"
+    ],
+    "lat": 41.9,
+    "lng": 12.45,
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 882,
+    "tier": "easy",
+    "hints": [
+      "Located in Southern Europe",
+      "Landlocked, sharing a border with 1 country",
+      "Home to about 1,000 people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ve",
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "acceptedAnswers": [
+      "Caracas"
+    ],
+    "lat": 10.48,
+    "lng": -66.87,
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 28517000,
+    "tier": "medium",
+    "hints": [
+      "Located in South America",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 29 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "vn",
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "acceptedAnswers": [
+      "Hanoi"
+    ],
+    "lat": 21.03,
+    "lng": 105.85,
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 101343800,
+    "tier": "medium",
+    "hints": [
+      "Located in South-Eastern Asia",
+      "Has a coastline and 3 land neighbours",
+      "Home to about 101 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "ye",
+    "name": "Yemen",
+    "capital": "Sana'a",
+    "acceptedAnswers": [
+      "Sana'a"
+    ],
+    "lat": 15.37,
+    "lng": 44.19,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "population": 32684503,
+    "tier": "medium",
+    "hints": [
+      "Located in Western Asia",
+      "Has a coastline and 2 land neighbours",
+      "Home to about 33 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "zm",
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "acceptedAnswers": [
+      "Lusaka"
+    ],
+    "lat": -15.42,
+    "lng": 28.28,
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 19693423,
+    "tier": "medium",
+    "hints": [
+      "Located in Eastern Africa",
+      "Landlocked, sharing a border with 8 countries",
+      "Home to about 20 million people"
+    ],
+    "note": null
+  },
+  {
+    "id": "zw",
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "acceptedAnswers": [
+      "Harare"
+    ],
+    "lat": -17.82,
+    "lng": 31.03,
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "population": 17073087,
+    "tier": "medium",
+    "hints": [
+      "Located in Southern Africa",
+      "Landlocked, sharing a border with 4 countries",
+      "Home to about 17 million people"
+    ],
+    "note": null
+  }
+]
