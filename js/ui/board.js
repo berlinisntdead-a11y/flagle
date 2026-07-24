@@ -17,13 +17,19 @@ export class Board {
     this.render([], '', new Map());
   }
 
-  // Shrink tiles so the longest word fits a narrow phone; wrap does the rest.
+  // Size tiles so the WHOLE row (every word group + gaps) fits on one line.
+  // Only if that would push tiles below 16px (Sri Jayawardenepura Kotte on a
+  // phone) do we fall back to wrapping by word, sized to the longest word.
   fitCells() {
     if (!this.wordLens) return;
-    const longest = Math.max(...this.wordLens);
     const available = Math.min(window.innerWidth, 512) - 24;
-    const px = Math.floor((available - (longest - 1) * 4) / longest);
-    const size = Math.max(16, Math.min(42, px));
+    const nWords = this.wordLens.length;
+    const oneLine = Math.floor((available - (this.total - 1) * 4 - (nWords - 1) * 15) / this.total);
+    let size = Math.min(42, oneLine);
+    if (size < 16) {
+      const longest = Math.max(...this.wordLens);
+      size = Math.max(14, Math.min(42, Math.floor((available - (longest - 1) * 4) / longest)));
+    }
     this.el.style.setProperty('--cell', `${size}px`);
   }
 

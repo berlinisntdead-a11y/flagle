@@ -318,6 +318,11 @@ main {
   flex-direction: column;
   gap: 0.35rem;
   user-select: none;
+  position: sticky;
+  bottom: 0;
+  background: var(--bg);
+  padding: 0.4rem 0 max(0.4rem, env(safe-area-inset-bottom));
+  margin-top: auto;
 }
 
 .kb-row {
@@ -338,6 +343,8 @@ main {
   font-size: 0.95rem;
   text-transform: uppercase;
   padding: 0;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .key.wide {
@@ -510,6 +517,22 @@ dialog fieldset {
   border-radius: 8px;
   padding: 0.5rem;
   margin-bottom: 0.6rem;
+}
+
+/* short viewports (phones): tighten so board + keyboard share the screen */
+@media (max-height: 780px) {
+  main {
+    gap: 0.45rem;
+    padding-top: 0.4rem;
+  }
+
+  #flag {
+    max-height: 21vh;
+  }
+
+  .key {
+    min-height: 44px;
+  }
 }
 
 .visually-hidden {
