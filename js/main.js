@@ -365,6 +365,7 @@ async function share() {
     rows: puzzles.map((p) => p.shareRow()).filter((r) => r.length),
     dark: matchMedia('(prefers-color-scheme: dark)').matches,
     colourblind: state.settings.colourblind,
+    url: location.origin + location.pathname,
   });
   if (navigator.share && /Mobi|Android|iPhone|iPad/.test(navigator.userAgent)) {
     try {

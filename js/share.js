@@ -11,6 +11,7 @@ export function shareString({
   rows,
   dark = false,
   colourblind = false,
+  url = null,
 }) {
   const solved = results.filter((r) => r > 0).length;
   const tile = {
@@ -20,5 +21,7 @@ export function shareString({
   };
   const header = `Flagle #${puzzleNo} · ${mode} · ${solved}/${results.length} · 🔥${streakCurrent}`;
   const lines = rows.map((row) => row.map((s) => tile[s]).join(''));
-  return [header, ...lines].join('\n');
+  const parts = [header, ...lines];
+  if (url) parts.push(`Try your luck: ${url}`);
+  return parts.join('\n');
 }
