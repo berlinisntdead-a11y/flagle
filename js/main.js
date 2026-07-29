@@ -21,6 +21,10 @@ const MODES = {
 const deSpace = (s) => s.replace(/ /g, '');
 const $ = (id) => document.getElementById(id);
 
+// Marker for a given-up puzzle in the saved guess list. Real guesses are
+// always A–Z only, so the '!' makes a collision impossible.
+const GAVE_UP = '!GAVEUP';
+
 const countries = await fetch('./data/countries.json').then((r) => r.json());
 
 // dictionary of every accepted answer, for hard mode's "real capital" check
@@ -49,6 +53,7 @@ class FlagCapitalPuzzle {
     this.scores = [];
     this.revealed = new Map();
     this.done = false;
+    this.gaveUp = false;
     this.result = null;
     if (this.cfg.freeFirstLetter) this.revealed.set(0, this.answerKey[0]);
   }
@@ -110,15 +115,28 @@ class FlagCapitalPuzzle {
     }
   }
 
+  // Escape hatch: some flags she simply won't know, and hard mode can offer no
+  // legal guess at all when the answer's length is unique in the dataset.
+  // Kept out of `guesses` so the board and hint schedule stay untouched.
+  giveUp() {
+    if (this.done) return;
+    this.gaveUp = true;
+    this.done = true;
+    this.result = -1;
+  }
+
   hintsDueAfter(guessCount) {
     return this.cfg.hintAfter.map((n, j) => (n === guessCount ? j : -1)).filter((j) => j >= 0);
   }
 
   serialise() {
-    return [...this.guesses];
+    return this.gaveUp ? [...this.guesses, GAVE_UP] : [...this.guesses];
   }
 
+  // A given-up puzzle still owes the share grid a row, or five puzzles would
+  // print four rows.
   shareRow() {
+    if (this.gaveUp) return new Array(this.answerKey.length).fill('absent');
     return this.scores[this.scores.length - 1] ?? [];
   }
 }
@@ -202,7 +220,11 @@ function startPuzzle(replayGuesses = []) {
   keyboard.reset();
   hints.reset();
   board.start(p.wordLens, p.cfg.maxGuesses);
-  for (const g of replayGuesses) applyGuess(g, { silent: true });
+  $('giveup-btn').hidden = false;
+  for (const g of replayGuesses) {
+    if (g === GAVE_UP) giveUp({ silent: true });
+    else applyGuess(g, { silent: true });
+  }
   renderBoard();
   paintProgress();
   const next = roundCountries[idx + 1];
@@ -290,12 +312,20 @@ function finishPuzzle(res, silent = false) {
   if (country.note) text += ` ${country.note}`;
   $('reveal-text').textContent = text;
   $('next-btn').textContent = idx < 4 ? 'Next flag' : 'See results';
+  $('giveup-btn').hidden = true;
   revealPanel.hidden = false;
   if (!silent) {
     announce(text);
     saveProgress();
   }
   paintProgress();
+}
+
+function giveUp({ silent = false } = {}) {
+  const p = puzzles[idx];
+  if (roundOver || p.done) return;
+  p.giveUp();
+  finishPuzzle({ status: 'gaveup' }, silent);
 }
 
 function finishRound() {
@@ -425,6 +455,15 @@ window.addEventListener('resize', () => board.fitCells());
 window.addEventListener('keydown', (e) => {
   if (e.ctrlKey || e.metaKey || e.altKey) return;
   if ($('settings-dialog').open || $('results-dialog').open) return;
+  // A focused control button (give up, next, settings) already activates on
+  // Enter/Space; treating that as a game key too would fire the action twice
+  // and skip past the reveal. On-screen keys are left alone.
+  if (
+    (e.key === 'Enter' || e.key === ' ') &&
+    e.target instanceof HTMLButtonElement &&
+    !e.target.closest('#keyboard')
+  )
+    return;
   if (e.key === 'Enter') onKey('ENTER');
   else if (e.key === 'Backspace') onKey('BACKSPACE');
   else if (e.key === ' ') {
@@ -432,6 +471,8 @@ window.addEventListener('keydown', (e) => {
     onKey('SPACE');
   } else if (/^[a-zA-Z]$/.test(e.key)) onKey(e.key.toUpperCase());
 });
+
+$('giveup-btn').addEventListener('click', () => giveUp());
 
 $('next-btn').addEventListener('click', () => {
   if (roundOver) {
@@ -508,7 +549,10 @@ if (state.history.some((h) => h.puzzleNo === todayNo)) {
   const saved = state.inProgress.guesses ?? [];
   idx = Math.min(state.inProgress.index ?? 0, 4);
   for (let i = 0; i < idx; i++) {
-    for (const g of saved[i] ?? []) puzzles[i].submitGuess(g);
+    for (const g of saved[i] ?? []) {
+      if (g === GAVE_UP) puzzles[i].giveUp();
+      else puzzles[i].submitGuess(g);
+    }
   }
   startPuzzle(saved[idx] ?? []);
 } else {
